@@ -1,1 +1,0 @@
-# parseh-callcenter-configuration
